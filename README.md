@@ -89,4 +89,4 @@ Epoch 00020: LearningRateScheduler setting learning rate to 0.000424869.
    Output : [0.01962876503764419, 0.9942]
 
 3. Strategy taken to achieve this.
-   Reduced the number of filters used in the 2nd layer (from 32 to 16) as it would reduce the no. of parameters but maintain the accuracy around 99.4 
+   Reduced the number of filters used in the 2nd layer (from 32 to 16) as it helped  in reducing the no. of parameters but maintain the accuracy around 99.4 
